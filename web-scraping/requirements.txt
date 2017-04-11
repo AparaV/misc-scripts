@@ -1,0 +1,4 @@
+BeautifulSoup==3.2.1
+beautifulsoup4==4.5.3
+requests==2.12.5
+requests-oauthlib==0.7.0
