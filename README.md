@@ -1,3 +1,3 @@
 # Web scraping scripts
 
-Miscellaneous python scripts to scrape the web
+Miscellaneous python scripts that don't belong anywhere else.
